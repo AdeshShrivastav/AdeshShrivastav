@@ -10,7 +10,7 @@ I'm a passionate software developer with a keen interest in machine learning, de
 ## Skills
 - **Programming Languages:** Python
 - **Machine Learning:** scikit-learn, PyTorch
-- 
+- **Data Structures And Algorithms:** Array, Linked list , Stack , Queue , Tree , Graph , Searching and sorting Algorithms 
 ## Projects
 ### Laptop Price Prediction Model
 A machine learning model to predict laptop prices based on various features. [Repository Link](https://github.com/yourusername/laptop-price-prediction)
