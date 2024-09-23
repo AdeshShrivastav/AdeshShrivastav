@@ -13,13 +13,13 @@ I'm a passionate software developer with a keen interest in machine learning, de
 - **Data Structures And Algorithms:** Array, Linked list , Stack , Queue , Tree , Graph , Searching and sorting Algorithms 
 ## Projects
 ### Laptop Price Prediction Model
-A machine learning model to predict laptop prices based on various features. [Repository Link](https://github.com/yourusername/laptop-price-prediction)
+A machine learning model to predict laptop prices based on various features. [Repository Link](https://github.com/AdeshShrivastav/Projects)
 
 ### Chatbot
-A simple chatbot built using natural language processing techniques. [Repository Link](https://github.com/yourusername/chatbot)
+A simple chatbot built using natural language processing techniques. [Repository Link](https://github.com/AdeshShrivastav/Intern-army-projects)
 
 ### Quiz Game
-An interactive quiz game with multiple-choice questions on various topics. [Repository Link](https://github.com/yourusername/quiz-game)
+An interactive quiz game with multiple-choice questions on various topics. [Repository Link](https://github.com/AdeshShrivastav/Intern-army-projects)
 
 ## Education
 - **Bachelor of Technology in Computer Science** - Technocrats institute of technology bhopal
