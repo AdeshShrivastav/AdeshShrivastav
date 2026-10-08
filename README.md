@@ -1,7 +1,3 @@
-Sure! Here's a sample profile README file for your GitHub profile:
-
----
-
 # Hi there, I'm Adesh shrivastav 👋
 
 ## About Me
@@ -34,6 +30,3 @@ An interactive quiz game with multiple-choice questions on various topics. [Repo
 ## Fun Fact
 When I'm not coding, you can find me playing games, or exploring new places.
 
----
-
-Feel free to customize this README file with your own details and preferences. If you need any further assistance or have any specific requests, let me know!
